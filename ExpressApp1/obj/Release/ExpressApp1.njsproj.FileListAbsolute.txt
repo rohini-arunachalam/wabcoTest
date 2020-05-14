@@ -1,0 +1,2 @@
+D:\ExpressApp1\ExpressApp1\bin\Microsoft.NodejsTools.WebRole.dll
+D:\ExpressApp1\ExpressApp1\obj\Release\ExpressApp1.njsprojAssemblyReference.cache
